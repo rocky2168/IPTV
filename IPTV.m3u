@@ -389,7 +389,7 @@ http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="SH08" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png" group-title="地方特色",魅力足球
 http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="SH09" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="地方特色",法治天地
-http://nas.mfparking.com:8125/udp/233.50.201.191:5140
+http://119.54.9.216:9999/hls/94/index.m3u8
 
 #陕西/7个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
