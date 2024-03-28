@@ -555,21 +555,23 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 #EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
-#北京/7个频道
+#北京/8个频道
 #EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-http://218.241.192.50:8808/udp/239.3.1.159:8000
+http://183.242.49.77:8787/live/BTV新闻/index.m3u8
 #EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-http://218.241.192.50:8808/udp/239.3.1.158:8000
+http://183.242.49.77:8787/live/BTV影视/index.m3u8
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://218.241.192.50:8808/udp/239.3.1.242:8000
+http://183.242.49.77:8787/live/BTV文艺/index.m3u8
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-http://218.241.192.50:8808/udp/239.3.1.117:8000
+http://183.242.49.77:8787/live/BTV生活/index.m3u8
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京国际
 http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
 #EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
-http://101.228.122.236:9901/tsfile/live/1002_1.m3u8
+http://183.242.49.77:8787/live/BTV卡酷少儿/index.m3u8
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
-http://218.241.192.50:8808/udp/239.3.1.116:8000
+http://183.242.49.77:8787/live/BTV财经/index.m3u8
+#EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
+http://183.242.49.77:8787/live/BTV体育/index.m3u8
 
 #江苏/29个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
@@ -630,7 +632,108 @@ http://cm-wshls.homecdn.com/live/8c3.m3u8
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-id="JS29" tvg-logo="http://tv.haoqu99.com/d/file/2018/0706/smallfb8863a64a6166c400b765d5a930323b1530866940.jpg" group-title="地方特色",镇江二套社会民生频道
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-
+#河南/27个频道
+#EXTINF:-1,tvg-id="HN01" tvg-name="河南都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南都市.png" group-title="地方特色",河南都市
+http://v.vlanl.com:4022/udp/225.1.4.52:1081
+#EXTINF:-1,tvg-id="HN02" tvg-name="河南民生" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南民生.png" group-title="地方特色",河南民生
+http://v.vlanl.com:4022/udp/225.1.4.53:1082
+#EXTINF:-1,tvg-id="HN03" tvg-name="河南法治" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南法治.png" group-title="地方特色",河南法治
+http://v.vlanl.com:4022/udp/225.1.4.54:1083
+#EXTINF:-1,tvg-id="HN04" tvg-name="河南电视剧" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南电视剧.png" group-title="地方特色",河南电视剧
+http://v.vlanl.com:4022/udp/225.1.4.55:1084
+#EXTINF:-1,tvg-id="HN05" tvg-name="河南新闻" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南新闻.png" group-title="地方特色",河南新闻
+http://v.vlanl.com:4022/udp/225.1.4.56:1085
+#EXTINF:-1,tvg-id="HN06" tvg-name="河南公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南公共.png" group-title="地方特色",河南公共
+http://v.vlanl.com:4022/udp/225.1.4.58:1087
+#EXTINF:-1,tvg-id="HN07" tvg-name="河南乡村" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南乡村.png" group-title="地方特色",河南乡村
+http://v.vlanl.com:4022/udp/225.1.4.120:1149
+#EXTINF:-1,tvg-id="HN08" tvg-name="河南国际" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南国际.png" group-title="地方特色",河南国际
+http://v.vlanl.com:4022/udp/225.1.4.102:1131
+#EXTINF:-1,tvg-id="HN09" tvg-name="河南戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南戏曲.png" group-title="地方特色",河南戏曲
+http://v.vlanl.com:4022/udp/225.1.4.99:1128
+#EXTINF:-1,tvg-id="HN10" tvg-name="收藏天下" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南收藏天下.png" group-title="地方特色",收藏天下
+http://v.vlanl.com:4022/udp/225.1.4.100:1129
+#EXTINF:-1,tvg-id="HN11" tvg-name="河南功夫" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南中华功夫.png" group-title="地方特色",中华功夫
+http://v.vlanl.com:4022/udp/225.1.4.101:1130
+#EXTINF:-1,tvg-id="HN12" tvg-name="睛彩中原" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南睛彩中原.png" group-title="地方特色",睛彩中原
+http://v.vlanl.com:4022/udp/225.1.4.163:1203
+#EXTINF:-1,tvg-id="HN13" tvg-name="河南移动戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南移动戏曲.png" group-title="地方特色",移动戏曲
+http://v.vlanl.com:4022/udp/225.1.4.206:1254
+#EXTINF:-1,tvg-id="HN14" tvg-name="河南移动电视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南移动电视.png" group-title="地方特色",移动电视
+http://v.vlanl.com:4022/udp/225.1.5.40:1350
+#EXTINF:-1,tvg-id="HN15" tvg-name="河南健康" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/健康河南.png" group-title="地方特色",健康河南
+http://v.vlanl.com:4022/udp/225.1.5.48:1358
+#EXTINF:-1,tvg-id="HN16" tvg-name="河南导视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河南导视.png" group-title="地方特色",河南导视
+http://v.vlanl.com:4022/udp/225.1.4.194:1244
+#EXTINF:-1,tvg-id="HN17" tvg-name="国学" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/国学频道.png" group-title="地方特色",国学频道
+http://v.vlanl.com:4022/udp/225.1.4.196:1311
+#EXTINF:-1,tvg-id="HN18" tvg-name="郑州综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州新闻综合.png" group-title="地方特色",郑州新闻综合
+http://v.vlanl.com:4022/udp/225.1.4.140:1176
+#EXTINF:-1,tvg-id="HN19" tvg-name="郑州商都" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州商都.png" group-title="地方特色",郑州商都
+http://v.vlanl.com:4022/udp/225.1.4.141:1177
+#EXTINF:-1,tvg-id="HN20" tvg-name="郑州文体旅游" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州文体旅游.png" group-title="地方特色",郑州文体旅游
+http://v.vlanl.com:4022/udp/225.1.4.142:1178
+#EXTINF:-1,tvg-id="HN21" tvg-name="郑州戏曲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州影视戏曲.png" group-title="地方特色",郑州影视戏曲
+http://v.vlanl.com:4022/udp/225.1.4.146:1182
+#EXTINF:-1,tvg-id="HN22" tvg-name="郑州儿童" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州妇女儿童.png" group-title="地方特色",郑州妇女儿童
+http://v.vlanl.com:4022/udp/225.1.4.147:1183
+#EXTINF:-1,tvg-id="HN23" tvg-name="郑州生活" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州都市生活.png" group-title="地方特色",郑州都市生活
+http://v.vlanl.com:4022/udp/225.1.4.149:1185
+#EXTINF:-1,tvg-id="HN24" tvg-name="郑州教育台" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/郑州教育.png" group-title="地方特色",郑州教育
+http://v.vlanl.com:4022/udp/225.1.4.191:1241
+#EXTINF:-1 tvg-id="HN25" tvg-name="洛阳新闻综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳新闻综合.png" group-title="地方特色",洛阳新闻综合
+http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+#EXTINF:-1 tvg-id="HN26" tvg-name="洛阳科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳科教.png" group-title="地方特色",洛阳科教
+http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+#EXTINF:-1 tvg-id="HN27" tvg-name="洛阳文旅" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/洛阳文旅.png" group-title="地方特色",洛阳文旅
+http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+#河南/23个频道
+#EXTINF:-1 tvg-id="HB01" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="地方特色",河北经济生活•邯郸 Ⅰ
+http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-id="HB02" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="地方特色",河北经济生活•邯郸 Ⅱ
+http://hbyxmlg.picp.io:8088/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="HB03" tvg-name="河北经济" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北经济生活.png" group-title="地方特色,河北经济生活•保定
+http://111.225.113.130:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB04" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="地方特色",河北都市•邯郸 Ⅰ
+http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 tvg-id="HB05" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="地方特色",河北都市•邯郸 Ⅱ
+http://hbyxmlg.picp.io:8088/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="HB06" tvg-name="河北都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北都市.png" group-title="地方特色",河北都市•保定
+http://111.225.113.130:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB07" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="地方特色",河北影视剧•邯郸 Ⅰ
+http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 tvg-id="HB08" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="地方特色",河北影视剧•邯郸 Ⅱ
+http://hbyxmlg.picp.io:8088/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="HB09" tvg-name="河北影视" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北影视剧.png" group-title="地方特色",河北影视剧•保定
+http://111.225.113.130:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB10" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="地方特色",河北公共•邯郸 Ⅰ
+http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 tvg-id="HB11" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="地方特色",河北公共•邯郸 Ⅱ
+http://hbyxmlg.picp.io:8088/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="HB12" tvg-name="河北公共" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北公共.png" group-title="地方特色",河北公共•保定
+http://111.225.113.130:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB13" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="地方特色",河北少儿科教•保定 Ⅰ
+http://zdwjl.eatuo.com:808/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="HB14" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="地方特色",河北少儿科教•保定 Ⅱ
+http://111.225.113.130:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB15" tvg-name="河北少儿科教" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北少儿科教.png" group-title="地方特色",河北少儿科教•邯郸
+http://hbyxmlg.picp.io:8088/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="HB16" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="地方特色",河北农民•保定 Ⅰ
+http://zdwjl.eatuo.com:808/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-id="HB17" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="地方特色",河北农民•保定 Ⅱ
+http://111.225.113.130:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB18" tvg-name="河北农民" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北农民.png" group-title="地方特色",河北农民•邯郸
+http://hbyxmlg.picp.io:8088/tsfile/live/1005_1.m3u8
+#EXTINF:-1,tvg-id="HB19" tvg-name="河北杂技" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/河北杂技.png" group-title="地方特色",河北杂技•保定
+http://111.225.113.130:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="HB20" tvg-name="石家庄新闻综合" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄新闻综合.png" group-title="地方特色",石家庄新闻综合
+http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+#EXTINF:-1 tvg-id="HB21" tvg-name="石家庄娱乐" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄娱乐.png" group-title="地方特色",石家庄娱乐
+http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+#EXTINF:-1 tvg-id="HB22" tvg-name="石家庄生活" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄生活.png" group-title="地方特色",石家庄生活
+http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+#EXTINF:-1 tvg-id="HB23" tvg-name="石家庄都市" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/石家庄都市.png" group-title="地方特色",石家庄都市
+http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 #港澳台/4个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
