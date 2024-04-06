@@ -476,13 +476,19 @@ http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000328/index.m3u8?
 #EXTINF:-1 tvg-id="GS07" tvg-name="甘肃兰州文旅" tvg-logo="" group-title="地方特色",甘肃兰州文旅
 http://[2409:8087:74F1:0021::0008]:80/270000001111/1110000330/index.m3u8?
 
-#安徽/4个频道
-#EXTINF:-1 tvg-id="AH01" tvg-name="安徽经济生活" tvg-logo="https://stevedarnell.github.io/tv/安徽经济生活.png" group-title="地方特色",安徽经济生活
-http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 tvg-id="AH02" tvg-name="安徽影视" tvg-logo="https://stevedarnell.github.io/tv/安徽影视.png" group-title="地方特色",安徽影视
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
-#EXTINF:-1 tvg-id="AH03" tvg-name="安徽综艺体育" tvg-logo="https://stevedarnell.github.io/tv/安徽综艺体育.png" group-title="地方特色",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#河北/9个频道
+#EXTINF:-1 tvg-id="HB01" tvg-name="河北生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei1.png" group-title="地方特色",河北生活
+http://121.24.98.186:8090/hls/26/index.m3u8
+#EXTINF:-1 tvg-id="HB02" tvg-name="河北农民 tvg-logo="" group-title="地方特色",河北农民
+http://121.24.98.186:8090/hls/27/index.m3u8
+#EXTINF:-1 tvg-id="HB03" tvg-name="河北都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei2.png" group-title="地方特色",河北都市
+http://121.24.98.186:8090/hls/28/index.m3u8
+#EXTINF:-1 tvg-id="HB03" tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei4.png" group-title="地方特色",河北少儿科教
+http://121.24.98.186:8090/hls/30/index.m3u8
+#EXTINF:-1 tvg-id="HB03" tvg-name="河北公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei5.png" group-title="地方特色",河北公共
+http://121.24.98.186:8090/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="HB03" tvg-name="河北影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hebei3.png" group-title="地方特色",河北影视
+,http://121.24.98.186:8090/hls/29/index.m3u8
 
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
