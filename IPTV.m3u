@@ -577,6 +577,22 @@ http://xxw.me0.cn/api/bestv.php?id=fjxw
 #EXTINF:-1 tvg-id="FJ07" tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian1.png" group-title="地方特色",福建综合
 http://xxw.me0.cn/api/bestv.php?id=fjzh
 
+#吉林/9个频道
+#EXTINF:-1 tvg-id="Jl01" tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin2.png" group-title="地方特色",吉林都市
+http://gongzhuling.lnott.top:9999/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="Jl02" tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin3.png" group-title="地方特色",吉林生活
+http://gongzhuling.lnott.top:9999/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="Jl03" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin4.png" group-title="地方特色",吉林影视
+http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="Jl04" tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin5.png" group-title="地方特色",吉林乡村
+http://gongzhuling.lnott.top:9999/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="Jl05" tvg-name="吉林公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin1.png" group-title="地方特色",吉林公共
+http://gongzhuling.lnott.top:9999/hls/23/index.m3u8
+#EXTINF:-1 tvg-id="Jl06" tvg-name="吉林综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin6.png" group-title="地方特色",吉林综艺
+http://gongzhuling.lnott.top:9999/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="Jl07" tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin.png" group-title="地方特色",吉林教育
+http://gongzhuling.lnott.top:9999/hls/27/index.m3u8
+
 #内蒙古/7个频道
 #EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
@@ -627,6 +643,7 @@ https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="JS08" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="地方特色",靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
+
 #港澳台/9个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
