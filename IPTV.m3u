@@ -532,19 +532,19 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u
 #EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
 http://222.218.159.162:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
-http://222.218.159.162:8181/tsfile/live/1007_1.m3u8
+http://183.54.208.197:9999/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="地方特色",广东民生
-http://222.218.159.162:8181/tsfile/live/1002_1.m3u8
+http://183.54.208.197:9999/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方特色",广东体育
-http://113.66.7.73:4433/tsfile/live/0142_1.m3u8
+http://183.54.208.197:9999/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="地方特色",广东经济科教
-http://222.218.159.162:8181/tsfile/live/1003_1.m3u8
+http://183.54.208.197:9999/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
 http://113.74.172.130:4000/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
-http://222.218.159.162:8181/tsfile/live/1004_1.m3u8
+http://183.54.208.197:9999/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="GD08" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="地方特色",南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+http://183.54.208.197:9999/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="GD09" tvg-name="岭南戏曲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong11.png" group-title="地方特色",岭南戏曲
 http://14.19.199.43:8089/hls/28/index.m3u8
 
