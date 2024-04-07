@@ -580,19 +580,19 @@ http://xxw.me0.cn/api/bestv.php?id=fjxw
 http://xxw.me0.cn/api/bestv.php?id=fjzh
 
 #吉林/7个频道
-#EXTINF:-1 tvg-id="Jl01" tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin2.png" group-title="地方特色",吉林都市
+#EXTINF:-1 tvg-id="J01" tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin2.png" group-title="地方特色",吉林都市
 http://gongzhuling.lnott.top:9999/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="Jl02" tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin3.png" group-title="地方特色",吉林生活
+#EXTINF:-1 tvg-id="J02" tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin3.png" group-title="地方特色",吉林生活
 http://gongzhuling.lnott.top:9999/hls/20/index.m3u8
-#EXTINF:-1 tvg-id="Jl03" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin4.png" group-title="地方特色",吉林影视
+#EXTINF:-1 tvg-id="J03" tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin4.png" group-title="地方特色",吉林影视
 http://gongzhuling.lnott.top:9999/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="Jl04" tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin5.png" group-title="地方特色",吉林乡村
+#EXTINF:-1 tvg-id="J04" tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin5.png" group-title="地方特色",吉林乡村
 http://gongzhuling.lnott.top:9999/hls/22/index.m3u8
-#EXTINF:-1 tvg-id="Jl05" tvg-name="吉林公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin1.png" group-title="地方特色",吉林公共
+#EXTINF:-1 tvg-id="J05" tvg-name="吉林公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin1.png" group-title="地方特色",吉林公共
 http://gongzhuling.lnott.top:9999/hls/23/index.m3u8
-#EXTINF:-1 tvg-id="Jl06" tvg-name="吉林综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin6.png" group-title="地方特色",吉林综艺
+#EXTINF:-1 tvg-id="J06" tvg-name="吉林综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin6.png" group-title="地方特色",吉林综艺
 http://gongzhuling.lnott.top:9999/hls/24/index.m3u8
-#EXTINF:-1 tvg-id="Jl07" tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin.png" group-title="地方特色",吉林教育
+#EXTINF:-1 tvg-id="J07" tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jilin.png" group-title="地方特色",吉林教育
 http://gongzhuling.lnott.top:9999/hls/27/index.m3u8
 
 #内蒙古/7个频道
