@@ -163,7 +163,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3
 #EXTINF:-1 tvg-id="B41" tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HKS.png" group-title="卫视高清",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="B42" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="卫视高清",海峡卫视
-http://123.184.27.215/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hxwshd4m/4000000/mnf.m3u8
+http://xxw.me0.cn/api/bestv.php?id=hxws
 
 #数字高清/40个频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字高清",CHC高清电影
@@ -562,6 +562,22 @@ http://182.149.204.14:4000/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="地方特色",四川公共乡村
 http://182.149.204.14:4000/udp/239.93.0.52:5140
 
+#福建/9个频道
+#EXTINF:-1 tvg-id="FJ01" tvg-name="福建电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian4.png" group-title="地方特色",福建电视剧
+http://xxw.me0.cn/api/bestv.php?id=fjdsj
+#EXTINF:-1 tvg-id="FJ02" tvg-name="福建公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian2.png" group-title="地方特色",福建公共
+http://xxw.me0.cn/api/bestv.php?id=fjgg
+#EXTINF:-1 tvg-id="FJ03" tvg-name="福建旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian5.png" group-title="地方特色",福建旅游
+http://xxw.me0.cn/api/bestv.php?id=fjly
+#EXTINF:-1 tvg-id="FJ04" tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian8.png" group-title="地方特色",福建少儿
+http://xxw.me0.cn/api/bestv.php?id=fjse
+#EXTINF:-1 tvg-id="FJ05" tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian7.png" group-title="地方特色",福建文体
+http://xxw.me0.cn/api/bestv.php?id=fjwt
+#EXTINF:-1 tvg-id="FJ06" tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian3.png" group-title="地方特色",福建新闻
+http://xxw.me0.cn/api/bestv.php?id=fjxw
+#EXTINF:-1 tvg-id="FJ07" tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian1.png" group-title="地方特色",福建综合
+http://xxw.me0.cn/api/bestv.php?id=fjzh
+
 #内蒙古/7个频道
 #EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
@@ -612,38 +628,6 @@ https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="JS08" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="地方特色",靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
-#EXTINF:-1 tvg-id="JS09" tvg-name="南通综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通综合
-https://nt-hls.ntjoy.com/live/4f1.m3u8
-#EXTINF:-1 tvg-id="JS10" tvg-name="南通公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通公共
-https://nt-hls.ntjoy.com/live/4f5.m3u8
-#EXTINF:-1 tvg-id="JS11" tvg-name="南通社教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通社教
-https://nt-hls.ntjoy.com/live/4f3.m3u8
-#EXTINF:-1 tvg-id="JS12" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small4670d7f9cb844b91cacbca499a085ce4.png" group-title="地方特色",无锡新闻综合频道
-http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
-#EXTINF:-1 tvg-id="JS13" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small88815cec22c049be0abd3787c67bba62.png" group-title="地方特色",无锡都市资讯频道
-http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
-#EXTINF:-1 tvg-id="JS14" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/smallaf6ef562b74bdd5dad32a21db5ebab16.png" group-title="地方特色",无锡娱乐频道
-http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=22c8ae641707368797
-#EXTINF:-1 tvg-id="JS15" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/smalld249ac6e41324c6696a6b0ae8e561fec.png" group-title="地方特色",无锡经济频道
-http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
-#EXTINF:-1 tvg-id="JS16" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small4752ae71aa5e6e9173fcb8cdb86d28d3.png" group-title="地方特色",无锡生活频道
-http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
-#EXTINF:-1 tvg-id="JS17" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614040628288.jpg" group-title="地方特色",连云港新闻综合频道
-http://live.lyg1.com/zhpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="JS18" tvg-logo="http://tv.haoqu99.com/d/file/2017/0910/small0d2f1938a6403e2e6ab6aaa2c6e9c50d1505057861.jpg",group-title="地方特色",连云港公共频道
-http://live.lyg1.com/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="JS19" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg" group-title="地方特色",扬州新闻频道
-http://cm-wshls.homecdn.com/live/8bb.m3u8
-#EXTINF:-1 tvg-id="JS20" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg" group-title="地方特色",扬州城市频道
-http://cm-wshls.homecdn.com/live/8bd.m3u8
-#EXTINF:-1 tvg-id="JS21" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg" group-title="地方特色",扬州生活频道
-http://cm-wshls.homecdn.com/live/8bf.m3u8
-#EXTINF:-1 tvg-id="JS22" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg" group-title="地方特色",扬州邗江频道
-http://cm-wshls.homecdn.com/live/8c3.m3u8
-#EXTINF:-1 tvg-id="JS23" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614045900469.jpg" group-title="地方特色",镇江新闻综合频道
-http://cm-wshls.homecdn.com/live/2aa50.m3u8
-#EXTINF:-1 tvg-id="JS24" tvg-logo="http://tv.haoqu99.com/d/file/2018/0706/smallfb8863a64a6166c400b765d5a930323b1530866940.jpg" group-title="地方特色",镇江二套社会民生频道
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #港澳台/9个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
