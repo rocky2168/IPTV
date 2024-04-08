@@ -617,7 +617,7 @@ http://221.218.14.126:8000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
 http://222.129.37.111:9001/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://221.218.14.126:8000/rtp/239.3.1.159:8000
+http://222.129.37.111:9001/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
 http://221.218.14.126:8000/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京国际
