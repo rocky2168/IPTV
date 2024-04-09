@@ -299,7 +299,7 @@ http://118.254.201.65:8888/udp/239.76.246.86:1234
 #EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际时事",CGTN Español
 http://118.254.201.65:8888/udp/239.76.246.88:1234
 #EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际时事",CGTN العربية
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://118.254.201.65:8888/udp/239.76.253.97:9000
 
 #湖南/16个频道
 #EXTINF:-1 tvg-id="Cpd" tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/chapd.png" group-title="地方特色",茶频道
