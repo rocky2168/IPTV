@@ -615,23 +615,26 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 #EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
-#北京/8个频道
+#北京/10个频道
 #EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-http://221.218.14.126:8000/rtp/239.3.1.159:8000
+http://114.254.98.22:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-http://222.129.37.111:9001/rtp/239.3.1.158:8000
+http://114.254.98.22:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://222.129.37.111:9001/rtp/239.3.1.242:8000
+http://114.254.98.22:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-http://221.218.14.126:8000/rtp/239.3.1.117:8000
+http://114.254.98.22:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://upload.112114.xyz/logo/%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85.png" group-title="地方特色",北京国际
 http://183.242.49.77:8787/live/BTV%E5%9B%BD%E9%99%85/index.m3u8
 #EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
-http://221.218.14.126:8000/rtp/239.3.1.189:8000
+http://114.254.98.22:4022/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
-http://183.242.49.77:8787/live/BTV财经/index.m3u8
+http://114.254.98.22:4022/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
-http://222.129.37.111:9001/rtp/239.3.1.243:8000
+http://114.254.98.22:4022/rtp/239.3.1.243:8000
+#EXTINF:-1,tvg-id="BJ10" tvg-name="BTV青年" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="地方特色",北京青年
+http://114.254.98.22:4022/rtp/239.3.1.118:8000
+
 #江苏/24个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv
