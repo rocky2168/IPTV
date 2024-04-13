@@ -389,7 +389,7 @@ https://itv.lat/tv/live.php?&line=1&id=shxwzh
 #EXTINF:-1 tvg-id="SH02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="地方特色",上海都市
 https://itv.lat/tv/live.php?&line=1&id=shds
 #EXTINF:-1 tvg-id="SH03" tvg-name="东方影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai3.png" group-title="地方特色",东方影视
-https://itv.lat/tv/live.php?&line=1&id=dfys
+http://116.237.248.80:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="SH04" tvg-name="上海外语" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="地方特色",上海外语
 https://itv.lat/tv/live.php?&line=1&id=shics
 #EXTINF:-1 tvg-id="SH05" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai5.png" group-title="地方特色",五星体育
