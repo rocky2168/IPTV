@@ -397,7 +397,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="地方特色",东方财经
 https://itv.lat/tv/live.php?&line=1&id=dfcj
 #EXTINF:-1 tvg-id="SH07" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="地方特色",新视觉
-http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+http://php.jdshipin.com:8880/bst.php?id=xsj&$1920x1080
 #EXTINF:-1 tvg-id="SH08" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png" group-title="地方特色",魅力足球
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 #EXTINF:-1 tvg-id="SH09" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="地方特色",法治天地
