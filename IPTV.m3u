@@ -217,7 +217,7 @@ https://itv.lat/tv/live.php?&line=1&id=hxjc
 #EXTINF:-1 tvg-id="qcxj" tvg-name="七彩戏剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/qcxj.png" group-title="数字高清",七彩戏剧
 https://itv.lat/tv/live.php?&line=1&id=qcxj
 #EXTINF:-1 tvg-id="dycj" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dycj.png" group-title="数字高清",第一财经
-https://itv.lat/tv/live.php?&line=1&id=dycj
+http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
 #EXTINF:-1 tvg-id="dycj" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字高清",生活时尚
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
 #EXTINF:-1 tvg-id="wssj" tvg-name="武术世界" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/wssj.png" group-title="数字高清",武术世界
