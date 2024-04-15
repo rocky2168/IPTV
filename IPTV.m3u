@@ -393,7 +393,7 @@ http://116.237.248.80:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="SH04" tvg-name="上海外语" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="地方特色",上海外语
 https://itv.lat/tv/live.php?&line=1&id=shics
 #EXTINF:-1 tvg-id="SH05" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai5.png" group-title="地方特色",五星体育
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
+http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="地方特色",东方财经
 https://itv.lat/tv/live.php?&line=1&id=dfcj
 #EXTINF:-1 tvg-id="SH07" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="地方特色",新视觉
