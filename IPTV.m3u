@@ -663,7 +663,7 @@ https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="JS14" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="地方特色",靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
 
-#港澳台/9个频道
+#港澳台/11个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
@@ -674,6 +674,18 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi1.png" tvg-name="澳门澳视"  group-title="港澳台",澳门澳视"
 https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻"
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" tvg-name="华视"  group-title="港澳台",华视"
+http://66.165.240.154:8080/live/tytvbs10/hls.m3u8
+#EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" tvg-name="中视"  group-title="港澳台",中视"
+http://66.165.240.154:8080/live/ztylt06/hls.m3u8
+#EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS"
+http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png"  group-title="港澳台",三立新闻"
+http://66.165.240.154:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png"  group-title="港澳台",台视新闻"
+http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
 
 
 
