@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#总台高清/25个频道
+#总台高清/26个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="总台高清",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="总台高清",CCTV-2 财经
@@ -41,31 +41,33 @@ http://iptv.shunyue1809.com:6321/udp/239.49.0.109:8000
 #EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="总台高清",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="总台高清",CCTV-8K 超高清
-https://tv.cry33.com/ys4k.php?id=8k
+http://120.79.4.185/md0425.php?id=cctv8k
 #EXTINF:-1 tvg-id="CCTVfyjc" tvg-name="风云剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyjc.png" group-title="总台高清",风云剧场
-http://iptv.shunyue1809.com:6321/udp/239.49.8.89:8000
+http://120.79.4.185/md0425.php?id=fyjc
 #EXTINF:-1 tvg-id="CCTVfyyy" tvg-name="风云音乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyyy.png" group-title="总台高清",风云音乐
-http://iptv.shunyue1809.com:6321/udp/239.49.8.92:8000
+http://120.79.4.185/md0425.php?id=fyyy
 #EXTINF:-1 tvg-id="CCTVdyjc" tvg-name="第一剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdyjc.png" group-title="总台高清",第一剧场
-http://iptv.shunyue1809.com:6321/udp/239.49.8.94:8000
+http://120.79.4.185/md0425.php?id=dyjc
 #EXTINF:-1 tvg-id="CCTVnxss" tvg-name="女性时尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVnxss.png" group-title="总台高清",女性时尚
-http://iptv.shunyue1809.com:6321/udp/239.49.8.93:8000
+http://120.79.4.185/md0425.php?id=nxss
 #EXTINF:-1 tvg-id="CCTVfyzq" tvg-name="风云足球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVfyzq.png" group-title="总台高清",风云足球
-http://iptv.shunyue1809.com:6321/udp/239.49.8.85:8000
+http://120.79.4.185/md0425.php?id=fyzq
 #EXTINF:-1 tvg-id="CCTVbqkj" tvg-name="兵器科技" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVbqkj.png" group-title="总台高清",兵器科技
-http://iptv.shunyue1809.com:6321/udp/239.49.8.88:8000
+http://120.79.4.185/md0425.php?id=bqkj
 #EXTINF:-1 tvg-id="CCTVhjjc" tvg-name="怀旧剧场" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVhjjc.png" group-title="总台高清",怀旧剧场
-http://iptv.shunyue1809.com:6321/udp/239.49.8.91:8000
+http://120.79.4.185/md0425.php?id=hjjc
 #EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="总台高清",世界地理
-http://iptv.shunyue1809.com:6321/udp/239.49.8.87:8000
+http://120.79.4.185/md0425.php?id=sjdl
 #EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="总台高清",文化精品
-http://iptv.shunyue1809.com:6321/udp/239.49.8.90:8000
+http://120.79.4.185/md0425.php?id=whjp
 #EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png" group-title="总台高清",央视台球
-http://iptv.shunyue1809.com:6321/udp/239.49.8.32:8000
+http://120.79.4.185/md0425.php?id=ystq
 #EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="总台高清",高尔夫网球
-http://iptv.shunyue1809.com:6321/udp/239.49.8.86:8000
+http://120.79.4.185/md0425.php?id=gefwq
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="总台高清",电视指南
-http://iptv.shunyue1809.com:6321/udp/239.49.8.84:8000
+http://120.79.4.185/md0425.php?id=dszn
+#EXTINF:-1 tvg-id="CCTVwsjk" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="总台高清",卫生健康
+http://120.79.4.185/md0425.php?id=wsjk
 #EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="总台高清",CETV-1 综合教育
 http://iptv.shunyue1809.com:6321/udp/239.49.8.115:8000
 #EXTINF:-1 tvg-id="A22" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="总台高清",CETV-2 空中课堂
