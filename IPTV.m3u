@@ -59,7 +59,7 @@ http://120.79.4.185/md0425.php?id=hjjc
 #EXTINF:-1 tvg-id="CCTVsjdl" tvg-name="世界地理" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVsjdl.png" group-title="总台高清",世界地理
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
 #EXTINF:-1 tvg-id="CCTVyswhjp" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVyswhjp.png" group-title="总台高清",文化精品
-http://120.79.4.185/md0425.php?id=whjp
+https://epg.pw/stream/e6b044e1219ab664803b8f4679634a80320363d09f5d6c65971facd1749e58a5.ctv
 #EXTINF:-1 tvg-id="CCTVystq" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVystq.png" group-title="总台高清",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
 #EXTINF:-1 tvg-id="CCTVgefwq" tvg-name="高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVgefwq.png" group-title="总台高清",高尔夫网球
@@ -67,7 +67,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="总台高清",电视指南
 http://120.79.4.185/md0425.php?id=dszn
 #EXTINF:-1 tvg-id="CCTVwsjk" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="总台高清",卫生健康
-http://120.79.4.185/md0425.php?id=wsjk
+https://epg.pw/stream/fc90a505bbcefc5a9c91e5dc5e12f5b0d6f76ac5f86b55a33ee724051af2d385.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="总台高清",CETV-1 综合教育
 http://iptv.shunyue1809.com:6321/udp/239.49.8.115:8000
 #EXTINF:-1 tvg-id="A22" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="总台高清",CETV-2 空中课堂
